@@ -439,6 +439,14 @@
             "author": "竹饅",
             "resource": "T-Pickaxe.png",
             "climbresource": "T-Pickaxe_climb.png"
+        },
+        {
+            "name": "ヘカートII",
+            "author": "なっつ",
+            "resource": "無題174_20220814204354.png",
+            "climbresource": "無題174_20220814194619.png",
+            "bounce": true,
+            "adaptive": true,
         }
     ]
 }
